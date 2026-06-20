@@ -1,0 +1,73 @@
+{
+  "symbols": [
+
+    {
+      "displayName": "Ad Manager 3 in 1",
+      "symbolName": "All_Ads_Manager"
+    },
+{
+      "displayName": "Firebase App",
+      "symbolName": "GamesArena_Firebase_App"
+    },
+    {
+      "displayName": "Firebase Analytics",
+      "symbolName": "GamesArena_Firebase_Analytics"
+    },
+    {
+      "displayName": "Firebase RemoteConfig",
+      "symbolName": "GamesArena_Firebase_RemoteConfig"
+    },
+    {
+      "displayName": "Firebase Messaging",
+      "symbolName": "GamesArena_Firebase_Messaging"
+    },
+    {
+      "displayName": "Firebase Crash Analytics",
+      "symbolName": "GamesArena_Firebase_Crashlytics"
+    },
+    {
+      "displayName": "Solar Engine",
+      "symbolName": "Solar_MMP"
+    },
+    {
+      "displayName": "Apps Flyer",
+      "symbolName": "AppsFlyer"
+    },
+    {
+      "displayName": "Applovin Ads",
+      "symbolName": "Applovin_Ads"
+    },
+    {
+      "displayName": "Ironsource Ads",
+      "symbolName": "Ironsource_Ads"
+    },
+    {
+      "displayName": "Admob Ads",
+      "symbolName": "Admob_Ads"
+    },
+    {
+      "displayName": "Connection Detector",
+      "symbolName": "Connection_Detector"
+    },
+    {
+      "displayName": "In App Purchsing",
+      "symbolName": "IAPs"
+    },
+    {
+      "displayName": "Revenue Cat",
+      "symbolName": "Revenue_Cat"
+    },
+    {
+      "displayName": "In App Review",
+      "symbolName": "In_App_Review"
+    },
+    {
+      "displayName": "In App Update",
+      "symbolName": "In_App_Update"
+    },
+ {
+      "displayName": "One Signal",
+      "symbolName": "One_Signal"
+    }
+  ]
+}

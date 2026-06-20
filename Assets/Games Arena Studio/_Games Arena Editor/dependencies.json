@@ -1,0 +1,338 @@
+{
+    "Integration_List": [
+        { "integrationName": "Monetization" },
+        { "integrationName": "Firebase" },
+        { "integrationName": "MMP" },
+        { "integrationName": "Google Services" },
+        { "integrationName": "Unity Services" },
+        { "integrationName": "Essentials" }
+
+    ],
+    "Connection_Detector": [
+        {
+            "itemName": "Connection Detector",
+            "symbolName": "Connection_Detector",
+            "itemPrefabPath": "Assets/Games Arena Studio/ConnectionDetector/ConnectionDetector.prefab",
+            "itemVersion": "0.0.1",
+            "checkDirectory": "Assets/Games Arena Studio/ConnectionDetector",
+            "importUrl": "\\\\fileserver.topedge.com\\Hyper Casual\\Games Arena Packages\\Games Arena Studio Editor\\Connection Detector.unitypackage"
+        }
+    ],
+    "MonetizationSDK_List": [
+        {
+            "itemName": "AdMob",
+            "symbolName": "Admob_Ads",
+            "itemVersion": "9.5.0",
+            "checkDirectory": "Assets/GoogleMobileAds",
+            "importUrl": "\\\\fileserver.topedge.com\\Hyper Casual\\Games Arena Packages\\Games Arena Studio Editor\\SDKs\\GoogleMobileAds-v11.0.0.unitypackage"
+        },
+        {
+            "itemName": "LevelPlay",
+            "symbolName": "Ironsource_Ads",
+            "itemVersion": "8.5.1",
+            "checkDirectory": "Assets/LevelPlay",
+            "importUrl": "\\\\fileserver.topedge.com\\Hyper Casual\\Games Arena Packages\\Games Arena Studio Editor\\SDKs\\UnityLevelPlay_v9.3.0.unitypackage"
+        },
+        {
+            "itemName": "LevelPlay Mediation",
+            "symbolName": "",
+            "itemVersion": "8.5.1",
+            "checkDirectory": "",
+            "importUrl": "\\\\fileserver.topedge.com\\Hyper Casual\\Games Arena Packages\\Games Arena Studio Editor\\SDKs\\LevelPlayMediation.unitypackage"
+        },
+        {
+            "itemName": "AppLovin Max",
+            "symbolName": "Applovin_Ads",
+            "itemVersion": "8.0.1",
+            "checkDirectory": "Assets/MaxSdk/AppLovin/Editor/Dependencies.xml",
+            "importUrl": "\\\\fileserver.topedge.com\\Hyper Casual\\Games Arena Packages\\Games Arena Studio Editor\\SDKs\\Max SDK With Mediation Adapters.unitypackage"
+        },
+        {
+            "itemName": "External Dependency Manager",
+            "symbolName": "",
+            "itemVersion": "8.0.1",
+            "checkDirectory": "Assets/MaxSdk/AppLovin/Editor/Dependencies.xml",
+            "importUrl": "file:\\\\fileserver.topedge.com\\Hyper Casual\\Games Arena Packages\\Games Arena Studio Editor\\SDKs\\com.google.external-dependency-manager-1.2.187.tgz"
+        }
+    ],
+
+    "MonetizationPackage_List": [
+        {
+            "itemName": "3 in 1 Ads Manager",
+            "symbolName": "All_Ads_Manager",
+            "itemPrefabPath": "Assets/Games Arena Studio/3 in 1 Ads Manager/3 in 1 Ads Manager.prefab",
+            "itemVersion": "1.1.0",
+            "checkDirectory": "Assets/Games Arena Studio/3 in 1 Ads Manager",
+            "importUrl": "\\\\fileserver.topedge.com\\Hyper Casual\\Games Arena Packages\\Games Arena Studio Editor\\3 in 1 Ads Manager (Admob + Applovin + Ironsource).unitypackage"
+        },
+        {
+            "itemName": "AdMob",
+            "itemVersion": "2.0.0",
+            "symbolName": "",
+            "itemPrefabPath": "Assets/Games Arena Studio/AdMob/AdMobManager.prefab",
+            "checkDirectory": "Assets/Games Arena Studio/AdMob",
+            "importUrl": "\\\\fileserver.topedge.com\\Hyper Casual\\Games Arena Packages\\Games Arena Studio Editor\\Admob Manager.unitypackage"
+        },
+        {
+            "itemName": "LevelPlay",
+            "symbolName": "",
+            "itemPrefabPath": "Assets/Games Arena Studio/LevelPlay/LevelPlayManager.prefab",
+            "itemVersion": "2.0.0",
+            "checkDirectory": "Assets/Games Arena Studio/LevelPlay",
+            "importUrl": "\\\\fileserver.topedge.com\\Hyper Casual\\Games Arena Packages\\Games Arena Studio Editor\\LevelPlay Manager.unitypackage"
+        },
+        {
+            "itemName": "AppLovin Max",
+            "itemPrefabPath": "Assets/Games Arena Studio/Applovin/ApplovinManager.prefab",
+            "itemVersion": "2.0.0",
+            "checkDirectory": "Assets/Games Arena Studio/AppLovin",
+            "importUrl": "\\\\fileserver.topedge.com\\Hyper Casual\\Games Arena Packages\\Games Arena Studio Editor\\Applovin Manager.unitypackage"
+        }
+    ],
+
+    "FirebaseSDK_List": [
+        {
+            "itemName": "Firebase App",
+            "symbolName": "GamesArena_Firebase_App",
+            "itemVersion": "12.5.0",
+            "checkDirectory": "Packages/Firebase App (Core)",
+            "importUrl": "file:\\\\fileserver.topedge.com\\Hyper Casual\\Games Arena Packages\\Games Arena Studio Editor\\SDKs\\com.google.firebase.app-13.7.0.tgz"
+        },
+        {
+            "itemName": "Analytics",
+            "symbolName": "GamesArena_Firebase_Analytics",
+            "itemVersion": "12.5.0",
+            "checkDirectory": "Assets/Firebase/Plugins/Firebase.Analytics.dll",
+            "importUrl": "file:\\\\fileserver.topedge.com\\Hyper Casual\\Games Arena Packages\\Games Arena Studio Editor\\SDKs\\com.google.firebase.analytics-13.7.0.tgz"
+        },
+        {
+            "itemName": "Crashlytics",
+            "symbolName": "GamesArena_Firebase_Crashlytics",
+            "itemVersion": "12.5.0",
+            "checkDirectory": "Assets/Firebase/Plugins/Firebase.Crashlytics.dll",
+            "importUrl": "file:\\\\fileserver.topedge.com\\Hyper Casual\\Games Arena Packages\\Games Arena Studio Editor\\SDKs\\com.google.firebase.crashlytics-13.7.0.tgz"
+        },
+        {
+            "itemName": "Messaging",
+            "symbolName": "GamesArena_Firebase_Messaging",
+            "itemVersion": "12.5.0",
+            "checkDirectory": "Assets/Firebase/Plugins/Firebase.Installations.dll",
+            "importUrl": "file:\\\\fileserver.topedge.com\\Hyper Casual\\Games Arena Packages\\Games Arena Studio Editor\\SDKs\\com.google.firebase.messaging-13.7.0.tgz"
+        },
+        {
+            "itemName": "Remote Config",
+            "symbolName": "GamesArena_Firebase_RemoteConfig",
+            "itemVersion": "12.5.0",
+            "checkDirectory": "Assets/Firebase/Plugins/RemoteConfig.dll",
+            "importUrl": "file:\\\\fileserver.topedge.com\\Hyper Casual\\Games Arena Packages\\Games Arena Studio Editor\\SDKs\\com.google.firebase.remote-config-13.7.0.tgz"
+        }
+    ],
+
+    "FirebasePackage_List": [
+        {
+            "itemName": "All in 1 Firebase Manager",
+            "symbolName": "",
+            "itemPrefabPath": "Assets/Games Arena Studio/Firebase/FirebaseManager.prefab",
+            "itemVersion": "1.1.0",
+            "checkDirectory": "Assets/Games Arena Studio/Firebase",
+            "importUrl": "\\\\fileserver.topedge.com\\Hyper Casual\\Games Arena Packages\\Games Arena Studio Editor\\Firebase Manager.unitypackage"
+        }
+    ],
+
+    "MMP_SDK_List": [
+        {
+            "itemName": "AppsFlyer",
+            "symbolName": "AppsFlyer",
+            "itemVersion": "6.15.3",
+            "checkDirectory": "Assets/AppsFlyer",
+            "importUrl": "\\\\fileserver.topedge.com\\Hyper Casual\\Games Arena Packages\\Games Arena Studio Editor\\SDKs\\appsflyer-unity-plugin-6.17.7.unitypackage"
+        },
+        {
+            "itemName": "Solar Engine",
+            "symbolName": "Solar_MMP",
+            "itemVersion": "1.3.0.9",
+            "checkDirectory": "Assets/Solar Engine SDK",
+            "importUrl": "\\\\fileserver.topedge.com\\Hyper Casual\\Games Arena Packages\\Games Arena Studio Editor\\SDKs\\solarengine-unity-sdk.unitypackage"
+        }
+    ],
+
+    "MMP_Package_List": [
+        {
+            "itemName": "AppsFlyer Manager",
+            "symbolName": "",
+            "itemPrefabPath": "Assets/Games Arena Studio/AppsFlyer/AppsFlyerManager.prefab",
+            "itemVersion": "1.1.0",
+            "checkDirectory": "Assets/Games Arena Studio/AppsFlyer",
+            "importUrl": "\\\\fileserver.topedge.com\\Hyper Casual\\Games Arena Packages\\Games Arena Studio Editor\\AppsFlyer Manager.unitypackage"
+        },
+        {
+            "itemName": "Solar Engine Manager",
+            "symbolName": "",
+            "itemPrefabPath": "Assets/Games Arena Studio/Solar Engine/Solar Engine Manager.prefab",
+            "itemVersion": "1.1.0",
+            "checkDirectory": "Assets/Games Arena Studio/Solar Engine",
+            "importUrl": "\\\\fileserver.topedge.com\\Hyper Casual\\Games Arena Packages\\Games Arena Studio Editor\\Solar Engine Manager.unitypackage"
+        }
+    ],
+
+
+    "GoogleServices_SDK_List": [
+
+        {
+            "itemName": "Android App Bundle",
+            "symbolName": "",
+            "itemVersion": "1.8.3",
+            "checkDirectory": "Assets/SingularSDK",
+            "importUrl": "file:\\\\fileserver.topedge.com\\Hyper Casual\\Games Arena Packages\\Games Arena Studio Editor\\SDKs\\com.google.android.appbundle-1.9.0.tgz"
+        },
+        {
+            "itemName": "Play Common",
+            "symbolName": "",
+            "itemVersion": "1.8.3",
+            "checkDirectory": "Assets/Solar Engine SDK",
+            "importUrl": "file:\\\\fileserver.topedge.com\\Hyper Casual\\Games Arena Packages\\Games Arena Studio Editor\\SDKs\\com.google.play.common-1.9.2.tgz"
+        },
+        {
+            "itemName": "Play Core",
+            "symbolName": "",
+            "itemVersion": "1.8.3",
+            "checkDirectory": "Assets/SingularSDK",
+            "importUrl": "file:\\\\fileserver.topedge.com\\Hyper Casual\\Games Arena Packages\\Games Arena Studio Editor\\SDKs\\com.google.play.core-1.8.5.tgz"
+        },
+        {
+            "itemName": "Play In App Reviews",
+            "symbolName": "In_App_Review",
+            "itemVersion": "1.8.3",
+            "checkDirectory": "Assets/SingularSDK",
+            "importUrl": "file:\\\\fileserver.topedge.com\\Hyper Casual\\Games Arena Packages\\Games Arena Studio Editor\\SDKs\\com.google.play.review-1.8.3.tgz"
+        },
+        {
+            "itemName": "Play In App Update",
+            "symbolName": "In_App_Update",
+            "itemVersion": "1.8.3",
+            "checkDirectory": "Assets/Solar Engine SDK",
+            "importUrl": "file:\\\\fileserver.topedge.com\\Hyper Casual\\Games Arena Packages\\Games Arena Studio Editor\\SDKs\\com.google.play.appupdate-1.8.3.tgz"
+        }
+    ],
+
+    "GoogleServices_Package_List": [
+
+        {
+            "itemName": "In App Update Manager",
+            "symbolName": "",
+            "itemPrefabPath": "Assets/Games Arena Studio/In App Update/InAppUpdate.prefab",
+            "itemVersion": "1.8.3",
+            "checkDirectory": "Assets/Games Arena Studio/In App Update",
+            "importUrl": "\\\\fileserver.topedge.com\\Hyper Casual\\Games Arena Packages\\Games Arena Studio Editor\\InAppUpdate.unitypackage"
+        },
+        {
+            "itemName": "In App Review Manager",
+            "symbolName": "",
+            "itemPrefabPath": "Assets/Games Arena Studio/In App Review/InAppReview.prefab",
+            "itemVersion": "1.8.3",
+            "checkDirectory": "Assets/Games Arena Studio/In App Review",
+            "importUrl": "\\\\fileserver.topedge.com\\Hyper Casual\\Games Arena Packages\\Games Arena Studio Editor\\InAppReview.unitypackage"
+        }
+    ],
+
+
+    "UnityServices_SDK_List": [
+        {
+            "itemName": "In App Purchase",
+            "symbolName": "IAPs",
+            "itemVersion": "1.8.3",
+            "checkDirectory": "Assets/SingularSDK",
+            "importUrl": ""
+        }
+    ],
+
+    "UnityServices_Package_List": [
+        {
+            "itemName": "IAP Manager",
+            "symbolName": "",
+            "itemPrefabPath": "Assets/Games Arena Studio/IAPs/IAPsManager.prefab",
+            "itemVersion": "2.0.0",
+            "checkDirectory": "Assets/Games Arena Studio/IAPs",
+            "importUrl": "\\\\fileserver.topedge.com\\Hyper Casual\\Games Arena Packages\\Games Arena Studio Editor\\IAPs.unitypackage"
+        }
+    ],
+    "RevenueCat_SDK_List": [
+        {
+            "itemName": "Revenue Cat",
+            "symbolName": "Revenue_Cat",
+            "itemVersion": "1.8.3",
+            "checkDirectory": "Assets/RevenueCat",
+            "importUrl": "\\\\fileserver.topedge.com\\Hyper Casual\\Games Arena Packages\\Games Arena Studio Editor\\SDKs\\RevenueCatSDK.unitypackage"
+        }
+    ],
+    "RevenueCat_Package_List": [
+        {
+            "itemName": "Revenue Cat Manager",
+            "symbolName": "",
+            "itemPrefabPath": "Assets/Games Arena Studio/RevenueCat/RevenueCatManager.prefab",
+            "itemVersion": "1.8.3",
+            "checkDirectory": "Assets/Games Arena Studio/RevenueCat",
+            "importUrl": "\\\\fileserver.topedge.com\\Hyper Casual\\Games Arena Packages\\Games Arena Studio Editor\\RevenueCatManager.unitypackage"
+        }
+    ],
+
+    "OneSignal_SDK_List": [
+        {
+            "itemName": "One Signal",
+            "symbolName": "One_Signal",
+            "itemVersion": "1.8.3",
+            "checkDirectory": "Assets/OneSignal",
+            "importUrl": "\\\\fileserver.topedge.com\\Hyper Casual\\Games Arena Packages\\Games Arena Studio Editor\\SDKs\\OneSignalSDK.unitypackage"
+        }
+    ],
+
+    "OneSignal_Package_List": [
+        {
+            "itemName": "One Signal Manager",
+            "symbolName": "",
+            "itemPrefabPath": "Assets/Games Arena Studio/OneSignal/OneSignalManager.prefab",
+            "itemVersion": "2.0.0",
+            "checkDirectory": "Assets/Games Arena Studio/OneSignal",
+            "importUrl": "\\\\fileserver.topedge.com\\Hyper Casual\\Games Arena Packages\\Games Arena Studio Editor\\OneSignalManager.unitypackage"
+        }
+    ],
+
+    "Debug_Console": [
+        {
+            "itemName": "Debug Console",
+            "symbolName": "",
+            "itemVersion": "1.8.3",
+            "checkDirectory": "Assets/Plugins/IngameDebugConsole",
+            "importUrl": "\\\\fileserver.topedge.com\\Hyper Casual\\Games Arena Packages\\Games Arena Studio Editor\\SDKs\\Debug Console.unitypackage"
+        }
+    ],
+    "Debug_Manager": [
+        {
+            "itemName": "Debug Manager",
+            "symbolName": "",
+            "itemPrefabPath": "Assets/Games Arena Studio/DebugConsole/DebugManager.prefab",
+            "itemVersion": "1.8.3",
+            "checkDirectory": "Assets/Games Arena Studio/DebugConsole",
+            "importUrl": "\\\\fileserver.topedge.com\\Hyper Casual\\Games Arena Packages\\Games Arena Studio Editor\\Debug Manager.unitypackage"
+        }
+    ],
+
+    "Permissions": [
+        {
+            "itemName": "INTERNET PERMISSION",
+            "permission": "android.permission.INTERNET"
+        },
+        {
+            "itemName": "ACCESS NETWORK STATE",
+            "permission": "android.permission.ACCESS_NETWORK_STATE"
+        },
+        {
+            "itemName": "ACCESS WIFI STATE",
+            "permission": "android.permission.ACCESS_WIFI_STATE"
+        },
+        {
+            "itemName": "GMS AD ID PERMISSION",
+            "permission": "com.google.android.gms.permission.AD_ID"
+        }
+    ]
+}
